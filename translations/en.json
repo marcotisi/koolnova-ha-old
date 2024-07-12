@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Koolnova Integration",
+        "data": {
+          "username": "Username",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "base": {
+        "username_exists": "Username already configured."
+      }
+    },
+    "abort": {
+      "already_configured": "The username is already configured."
+    }
+  }
+}

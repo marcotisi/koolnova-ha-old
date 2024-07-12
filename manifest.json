@@ -1,0 +1,9 @@
+{
+  "domain": "koolnova",
+  "name": "Koolnova",
+  "version": "1.0.0",
+  "documentation": "https://www.example.com",
+  "requirements": ["requests"],
+  "dependencies": [],
+  "codeowners": ["@marcotisi"]
+}
